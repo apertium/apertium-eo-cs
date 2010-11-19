@@ -1,1 +1,3 @@
 * text=auto !eol
+/apertium-eo-cs.eo-cs.dix -text
+dev/revo-cs.txt -text
