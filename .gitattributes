@@ -2,3 +2,8 @@
 /apertium-eo-cs.eo-cs.dix -text
 /apertium-eo-cs.eo-cs.dix2 -text
 dev/revo-cs.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
